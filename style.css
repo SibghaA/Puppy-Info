@@ -1,0 +1,16 @@
+img {
+  width: auto;
+  height: 250px;
+  margin: 0 auto;
+  display: block;
+}
+.puppy_holder {
+  display: inline-block;
+  vertical-align: top;
+  border: solid 2px black;
+  width: 300px;
+  padding: 6px;
+}
+html {
+  font-family: Helvetica;
+}
