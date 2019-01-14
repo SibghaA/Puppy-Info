@@ -1,15 +1,21 @@
 img {
-  width: auto;
+  width: 250px;
   height: 250px;
   margin: 0 auto;
   display: block;
+  border-radius: 50%;  
 }
 .puppy_holder {
   display: inline-block;
   vertical-align: top;
-  border: solid 2px black;
+  background-color: #e2d493;
   width: 300px;
-  padding: 6px;
+  padding: 10px;
+  margin: 6px;
+  border-radius: 5px;
+}
+.puppy_holder:hover {
+  background-color: #f4e7ab;
 }
 html {
   font-family: Helvetica;
